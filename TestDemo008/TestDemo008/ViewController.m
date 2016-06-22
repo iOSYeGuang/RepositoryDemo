@@ -11,6 +11,7 @@
 @interface ViewController ()
 {
     int _age;
+    NSString *_name;
 }
 
 @end
